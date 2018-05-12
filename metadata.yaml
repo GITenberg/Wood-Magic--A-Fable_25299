@@ -1,0 +1,30 @@
+_repo: Wood-Magic--A-Fable_25299
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jefferies, Richard
+    alias: Jefferies, John Richard
+    birthdate: 1848
+    deathdate: 1887
+    gutenberg_agent_id: '229'
+    url: http://www.gutenberg.org/2009/agents/229
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Jefferies
+description: Relates the experiences and adventures with his animal friends of a small
+  boy growing up in the English countryside.
+gutenberg_issued: '2008-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25299'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Country life -- Fiction'
+title: 'Wood Magic: A Fable'
+url: http://www.gutenberg.org/ebooks/25299
